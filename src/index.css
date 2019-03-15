@@ -12,3 +12,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.myCard{
+  width: 35rem;
+  height: 13rem;
+  border: 1px solid gray;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 10px;
+  background-color: antiquewhite;
+}
+.myCard-text{
+  text-align: center;
+  color: brown;
+}
+.searchBox{
+  width: 45rem;
+  height: 2rem;
+  margin: 15px;
+}
